@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-nacos-3377/cloud-config-nacos-3377.iml" filepath="$PROJECT_DIR$/cloud-config-nacos-3377/cloud-config-nacos-3377.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-nacos-8083/cloud-consumer-nacos-8083.iml" filepath="$PROJECT_DIR$/cloud-consumer-nacos-8083/cloud-consumer-nacos-8083.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-nacos-9001/cloud-nacos-9001.iml" filepath="$PROJECT_DIR$/cloud-nacos-9001/cloud-nacos-9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-nacos-9002/cloud-nacos-9002.iml" filepath="$PROJECT_DIR$/cloud-nacos-9002/cloud-nacos-9002.iml" />

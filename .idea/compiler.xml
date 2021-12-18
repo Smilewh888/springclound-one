@@ -10,9 +10,11 @@
         <module name="cloud-nacos-9001" />
         <module name="cloud-consumer-nacos-8083" />
         <module name="cloud-nacos-9002" />
+        <module name="cloud-config-nacos-3377" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud-config-nacos-3377" target="1.8" />
       <module name="cloud-consumer-nacos-8083" target="1.8" />
       <module name="cloud-nacos-9001" target="1.8" />
       <module name="cloud-nacos-9002" target="1.8" />
@@ -22,6 +24,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-config-nacos-3377" options="-parameters" />
       <module name="cloud-consumer-nacos-8083" options="-parameters" />
       <module name="cloud-nacos-9001" options="-parameters" />
       <module name="cloud-nacos-9002" options="-parameters" />
